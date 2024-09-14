@@ -10,6 +10,16 @@ A **Streamlit** app that leverages the [ModelScope text-to-video diffusion model
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [Streamlit](https://github.com/streamlit/streamlit)
 
+## Reference Paper
+
+This project is based on the following research paper:
+
+**[Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792)**  
+*By: Uriel Singer, Adam Polyak, Thomas Hayes, Trevor Darrell, Yaniv Taigman*  
+Published on *arXiv, 2022*.
+
+You can read the full paper [here](https://arxiv.org/pdf/2209.14792).
+
 ---
 
 ## **Installation**
