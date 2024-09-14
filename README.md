@@ -2,7 +2,7 @@
 
 <p align="center">
   <video width="600" height="400" controls>
-    <source src="https://github.com/Sai1390/text-to-video-generation-system/blob/main/output/a_man_skiing_in_ice-42.webm" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/aa2410cb-74ad-4913-be55-ae23fbac73d1" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
