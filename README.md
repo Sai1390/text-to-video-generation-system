@@ -1,11 +1,6 @@
 # text-to-video-generation-system
 
-<p align="center">
-  <video width="600" height="400" controls>
-    <source src="https://github.com/user-attachments/assets/aa2410cb-74ad-4913-be55-ae23fbac73d1" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/aa2410cb-74ad-4913-be55-ae23fbac73d1
 
 
 A **Streamlit** app that leverages the [ModelScope text-to-video diffusion model](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) to generate video clips from text prompts. Users can customize video length, frames per second (fps), and dimensions. The system is optimized to run on devices with 4GB video cards, CPUs, and Apple M chips.
