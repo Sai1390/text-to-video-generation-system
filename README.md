@@ -71,7 +71,15 @@ This will automatically open the app in your default web browser.
 > **Note:** The first time you run the app, it will download the necessary models from Huggingface, which may take a few minutes (10-15 mins).
 --- 
 ## **Requirements**
-- Conda v4.x.x
-- Git v2.x.x
-- Nvidia GPU with at least 4GB VRAM (optional but recommended)
-- CUDA (for GPU acceleration)
+- Python: 3.10
+- PyTorch: 2.0.0
+- Conda: 24.1.2
+- Git: 2.46.0.windows.1
+- CUDA Toolkit: 11.7 (if using Nvidia GPUs)
+- Accelerate: 0.18.0
+- Diffusers: 0.16.1
+- Transformers: 4.29.2
+- OpenCV: 4.7.0.72
+- NumPy: 1.26.4
+- Streamlit: 1.20.0
+- SciPy: (Optional, for additional machine learning utilities)
