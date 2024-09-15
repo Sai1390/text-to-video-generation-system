@@ -72,10 +72,10 @@ This will automatically open the app in your default web browser.
 --- 
 ## **Requirements**
 - Python: 3.10
-- PyTorch: 2.0.0
 - Conda: 24.1.2
 - Git: 2.46.0.windows.1
 - CUDA Toolkit: 11.7 (if using Nvidia GPUs)
+- PyTorch: 2.0.0
 - Accelerate: 0.18.0
 - Diffusers: 0.16.1
 - Transformers: 4.29.2
