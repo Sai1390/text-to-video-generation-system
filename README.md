@@ -1,4 +1,4 @@
-# text-to-video-generation-system
+# Text-to-Video Generation System
 
 https://github.com/user-attachments/assets/aa2410cb-74ad-4913-be55-ae23fbac73d1
 
@@ -9,6 +9,9 @@ A **Streamlit** app that leverages the [ModelScope text-to-video diffusion model
 - [Huggingface Diffusers](https://github.com/huggingface/diffusers) 🧨
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [Streamlit](https://github.com/streamlit/streamlit)
+
+## Project Overview
+This application allows users to generate videos from text prompts using a diffusion-based model. It offers flexibility in terms of the video output, enabling adjustments in parameters like video length, fps, and resolution. The underlying model is pre-trained, and users can easily interact with the interface provided via the Streamlit app.
 
 ## Reference Paper
 
@@ -63,3 +66,9 @@ streamlit run app.py
 This will automatically open the app in your default web browser.
 
 > **Note:** The first time you run the app, it will download the necessary models from Huggingface, which may take a few minutes (10-15 mins).
+
+## **Requirements**
+- Conda v4.x.x
+- Git v2.x.x
+- Nvidia GPU with at least 4GB VRAM (optional but recommended)
+- CUDA (for GPU acceleration)
